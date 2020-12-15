@@ -28,14 +28,9 @@ decir:	N ij  0, donde la letra sigma mayúscula representa a la suma algebrai
 
 Segunda ley de Kirchhoff o ley de las mallas o de las tensiones.
  
-
 Como las diferencias de potencial están asociadas a energías, como vimos cuando estudiamos el tema, y como la energía debe conservarse, entonces se cumplirá que la suma algebraica de todas las diferencias de potencial, debe ser nula. Hay que definir cuándo las tomamos como positivas y cuándo, como negativas.
 Una vez elegido el sentido de giro, consideraremos positiva a toda tensión que aparezca sobre un componente, fuente o resistencia, si con el recorrido elegido, pasamos de un potencial más bajo a otro más elevado. La consideraremos negativa si se da el caso contrario.
 Analicemos el caso planteado en el dibujo, en el cual se ve un trozo de circuito eléctrico, dentro de una red eléctrica más grande. Antes de continuar, conviene observar que siempre, por donde ingresa la corriente en un elemento pasivo (resistencia), es el polo positivo y por donde sale es el negativo. Al revés sucede con un elemento activo o fuente, por donde sale es el positivo, ya que se requiere un mayor potencial para que al corriente salga de la batería. Lo anterior se observa en el diagrama siguiente:
-
-
-
-
 
 Como la fuente y la resistencia están en paralelo, deben conservar la polaridad.
 
